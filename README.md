@@ -16,7 +16,7 @@ This repository contains a Python implementation of the Hough Transform algorith
 
 ```bash
 pip install numpy imageio opencv-python matplotlib Pillow
-
+```
 ## Algorithm Overview
 
 ### Hough Transform
@@ -51,3 +51,4 @@ To use the graphical user interface (GUI), run the provided script:
 
 ```bash
 python3 line_detection.py
+```
