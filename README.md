@@ -25,9 +25,9 @@ The Hough Transform is a technique for identifying shapes within an image, parti
 
 The general equation for a line in polar coordinates is given by:
 
-\[ r = x \cos(\theta) + y \sin(\theta) \]
+$\[ r = x \cos(\theta) + y \sin(\theta) \]$
 
-Here, \(r\) is the perpendicular distance from the origin to the line, and \(\theta\) is the angle formed by the perpendicular line and the x-axis.
+Here, $\(r\)$ is the perpendicular distance from the origin to the line, and $\(\theta\)$ is the angle formed by the perpendicular line and the x-axis.
 
 In the algorithm, the accumulator array is used to count the intersections of curves in the parameter space, and peaks in this accumulator array correspond to potential lines in the image.
 
